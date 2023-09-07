@@ -1,0 +1,18 @@
+#root {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.footer-logo {
+    width: 36px;
+    margin-right: 10px;
+}
+
+button.btn {
+    background: #59f89c !important;
+}
+
+button.btn:hover {
+    background: #59f89c !important;
+    opacity: 0.7;
+}
